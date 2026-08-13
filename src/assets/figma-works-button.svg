@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 117 70" role="img" aria-label="作品列表">
+  <rect width="117" height="70" fill="#050505"/>
+  <g fill="#f4f4f4">
+    <rect x="4" y="4" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="15.7" y="4" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="27.3" y="4" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="39" y="4" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="50.7" y="4" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="62.3" y="4" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="74" y="4" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="85.7" y="4" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="97.3" y="4" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="109" y="4" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="4" y="58.2" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="15.7" y="58.2" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="27.3" y="58.2" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="39" y="58.2" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="50.7" y="58.2" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="62.3" y="58.2" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="74" y="58.2" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="85.7" y="58.2" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="97.3" y="58.2" width="5.5" height="7.8" rx="0.7"/>
+    <rect x="109" y="58.2" width="5.5" height="7.8" rx="0.7"/>
+  </g>
+  <text x="58.5" y="44" fill="#ffffff" text-anchor="middle" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="23" font-weight="400" letter-spacing="0">作品列表</text>
+</svg>
